@@ -1,6 +1,6 @@
 # Homework1-Code-Refactor
 
-Description
+# Description
 
 This project was done as a part of a homework project for the University of Miami Bootcamp.
 
