@@ -1,5 +1,7 @@
 # Homework1-Code-Refactor
 
+Description
+
 This project was done as a part of a homework project for the University of Miami Bootcamp.
 
 A previously designed web page was created using a non-semantic HTML structure and did not always flow logically. The web page includes a single HTML and CSS file which was updated with cleaner code. The web page was given a proper title, the HTML structure was changed to fit more of a semantic structure, and many of the classes were combined to make it simpler to define and adjust them in the CSS file. Comments were then added throughout the code to make it easier for future developers to understand what was changed from the original.
